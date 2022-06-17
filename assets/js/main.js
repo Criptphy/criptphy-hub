@@ -9,7 +9,4 @@ window.setInterval(function() {
     p.innerText = 'Hub de links'
   } else if (nrm === 2) {
     p.innerText = 'criptphy@gmail.com'
-  } else {
-    p.innerText = 'PIX: (11)97043-4395'
-  }
 }, 2500)
